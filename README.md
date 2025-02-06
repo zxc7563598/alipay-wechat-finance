@@ -13,7 +13,7 @@
 
 最爽的是生成 Markdown 的部分，pandas 分组统计消费类型，直接 for 循环拼字符串，出来效果长这样：
 
-![生成样式示例，数据内容随机生成](/doc/demo.png#pic_center)
+![生成样式示例，数据内容随机生成](https://raw.githubusercontent.com/zxc7563598/alipay-wechat-finance/main/doc/demo.pngg#pic_center)
 
 # 使用说明
 脚本依赖两个 Python 包：`pandas` 和 `chardet`。安装方法如下：  
