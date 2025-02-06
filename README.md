@@ -37,5 +37,10 @@ pip install pandas chardet
 # 调用函数读取 CSV 文件并生成新的 CSV 文件
 read_csv('支付宝账单路径.csv', '微信账单路径.csv', '生成合并账单路径')
 # 调用函数生成 Markdown 文件
-generate_markdown('.生成合并账单路径.csv', '最终账单.md')
+generate_markdown('生成合并账单路径.csv', '最终账单.md')
+```
+
+运行脚本，即可得到 `最终账单.md`
+```python
+python analysis.py 
 ```
